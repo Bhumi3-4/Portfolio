@@ -55,7 +55,7 @@ function Navbar() {
               </li>
             ))}
             <li className="nav-item mb-2 mb-md-0">
-              <a href="src/assets/resume.pdf" target="_blank" rel="noreferrer" className="btn-resume text-decoration-none">
+              <a href="/resume.pdf" target="_blank" rel="noreferrer" className="btn-resume text-decoration-none">
                 Resume
               </a>
             </li>
