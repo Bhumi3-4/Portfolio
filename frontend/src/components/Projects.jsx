@@ -1,7 +1,7 @@
 import { FaGithub, FaExternalLinkAlt } from 'react-icons/fa'
 
 const projects = [
-  {
+ {
     title: 'DevForge',
     description: 'Developed DevForge, a full-stack MERN collaboration platform with JWT authentication, real-time Socket.io chat, Kanban-based task management, and team recruitment workflows, deployed using Vercel, Render, and MongoDB Atlas.',
     tech: ['React', 'Tailwind CSS', 'Node.js', 'Express', 'MongoDB', 'JWT', 'Socket.io],
