@@ -2,6 +2,14 @@ import { FaGithub, FaExternalLinkAlt } from 'react-icons/fa'
 
 const projects = [
   {
+    title: 'DevForge',
+    description: 'Developed DevForge, a full-stack MERN collaboration platform with JWT authentication, real-time Socket.io chat, Kanban-based task management, and team recruitment workflows, deployed using Vercel, Render, and MongoDB Atlas.',
+    tech: ['React', 'Tailwind CSS', 'Node.js', 'Express', 'MongoDB', 'JWT', 'Socket.io],
+    github: 'https://github.com/Bhumi3-4/DevForge',
+    live: 'https://dev-forge-delta.vercel.app/',
+    // featured: true,
+  },
+  {
     title: 'Airbnb Clone',
     description: 'A complete Airbnb Clone project utilizing the MERN Stack which includes User Authentication, Property Listing CRUD functionality, and Review Management for improved user engagement experience.',
     tech: ['React', 'Node.js', 'Express', 'MongoDB', 'JWT'],
@@ -22,7 +30,7 @@ const projects = [
     description: "This portfolio you're looking at right now! Built with React and Bootstrap. Fully responsive across all devices.",
     tech: ['React', 'Bootstrap', 'Node.js', 'MongoDB'],
     github: 'https://github.com/Bhumi3-4',
-    // live: 'https://your-portfolio.vercel.app',
+    live: ' https://portfolio-mu-seven-i363fpbw94.vercel.app/',
     // featured: false,
   },
 
