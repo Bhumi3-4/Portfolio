@@ -14,7 +14,7 @@ const projects = [
     description: 'Developed an AI-powered mock interview platform using the Gemini API with performance analytics, interview history tracking, and feedback scoring.',
     tech: ['React(Vite)', 'Tailwind CSS', 'Node.js', 'Express', 'MongoDB','JavaScript', 'JWT', 'bcryptjs'],
     github: 'https://github.com/Bhumi3-4/MockMate-AI',
-    live: 'https://mock-mate-ai-sigma.vercel.app/,
+    live: 'https://mock-mate-ai-sigma.vercel.app/',
     // featured: true,
   },
  {
