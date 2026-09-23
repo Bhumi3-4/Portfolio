@@ -1,7 +1,7 @@
 const skillGroups = [
   {
     category: 'Frontend',
-    skills: ['HTML5', 'CSS3', 'JavaScript (ES6+)', 'React.js', 'Bootstrap'],
+    skills: ['HTML5', 'CSS3', 'JavaScript (ES6+)', 'React.js', 'Bootstrap', 'Tailwind CSS'],
   },
   {
     category: 'Backend',
