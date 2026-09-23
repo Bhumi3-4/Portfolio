@@ -9,7 +9,7 @@ const skillGroups = [
   },
   {
     category: 'Database',
-    skills: ['MongoDB', 'Mongoose', 'MongoDB Atlas'],
+    skills: ['MongoDB', 'Mongoose', 'MySql'],
   },
   {
     category: 'Languages & CS',
